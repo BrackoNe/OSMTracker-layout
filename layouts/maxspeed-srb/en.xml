@@ -12,56 +12,54 @@
         </layout>
 	<layout name="regular">
 		<row>
-			<button type="tag" label="RS:II-30[10]" icon="maxspeed_icons/RS_II-30[10].png"/>
-			<button type="tag" label="RS:II-30[20]" icon="maxspeed_icons/RS_II-30[20].png"/>
-			<button type="tag" label="RS:II-30[30]" icon="maxspeed_icons/RS_II-30[30].png"/>
+			<button type="tag" label="RS:II-30[10]" icon="maxspeed_icons/10.png"/>
+			<button type="tag" label="RS:II-30[60]" icon="maxspeed_icons/60.png"/>
+			<button type="tag" label="RS:II-30[110]" icon="maxspeed_icons/110.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:II-30[40]" icon="maxspeed_icons/RS_II-30[40].png"/>
-			<button type="tag" label="RS:II-30[50]" icon="maxspeed_icons/RS_II-30[50].png"/>
-			<button type="tag" label="RS:II-30[60]" icon="maxspeed_icons/RS_II-30[60].png"/>
+			<button type="tag" label="RS:II-30[20]" icon="maxspeed_icons/20.png"/>
+			<button type="tag" label="RS:II-30[70]" icon="maxspeed_icons/70.png"/>
+			<button type="tag" label="RS:II-30[120]" icon="maxspeed_icons/120.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:II-30[70]" icon="maxspeed_icons/RS_II-30[70].png"/>
-			<button type="tag" label="RS:II-30[80]" icon="maxspeed_icons/RS_II-30[80].png"/>
-			<button type="tag" label="RS:II-30[90]" icon="maxspeed_icons/RS_II-30[90].png"/>
+			<button type="tag" label="RS:II-30[30]" icon="maxspeed_icons/30.png"/>
+			<button type="tag" label="RS:II-30[80]" icon="maxspeed_icons/80.png"/>
+			<button type="tag" label="RS:II-30[130]" icon="maxspeed_icons/130.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:II-30[100]" icon="maxspeed_icons/RS_II-30[100].png"/>
-			<button type="tag" label="RS:II-30[110]" icon="maxspeed_icons/RS_II-30[110].png"/>
-			<button type="tag" label="Error"/>
+			<button type="tag" label="RS:II-30[40]" icon="maxspeed_icons/40.png"/>
+			<button type="tag" label="RS:II-30[90]" icon="maxspeed_icons/90.png"/>
+			<button type="tag" label="RS:II-30[OTHER]" icon="maxspeed_icons/unknown.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:II-30[120]" icon="maxspeed_icons/RS_II-30[120].png"/>
-			<button type="tag" label="RS:II-30[130]" icon="maxspeed_icons/RS_II-30[130].png"/>
-			<button type="tag" label="RS:II-30[OTHER]" icon="maxspeed_icons/RS_II-30[other].png"/>
+			<button type="tag" label="RS:II-30[50]" icon="maxspeed_icons/50.png"/>
+			<button type="tag" label="RS:II-30[100]" icon="maxspeed_icons/100.png"/>
+			<button type="tag" label="Error" icon="maxspeed_icons/ERR.png"/>
 		</row>
         </layout>
 	<layout name="implicit">
 		<row>
-			<button type="tag" label="RS:III-14" icon="maxspeed_icons/RS_III-14.png"/>
-			<button type="tag" label="RS:III-17" icon="maxspeed_icons/RS_III-17.png"/>
-			<button type="tag" label="RS:III-24" icon="maxspeed_icons/RS_III-24.png"/>
+			<button type="tag" label="RS:III-14" icon="maxspeed_icons/end_numnered.png"/>
+			<button type="tag" label="RS:III-17" icon="maxspeed_icons/end_unnumnered.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:III-24.1" icon="maxspeed_icons/RS_III-24.1.png"/>
-			<button type="tag" label="RS:III-27" icon="maxspeed_icons/RS_III-27.png"/>
-			<button type="tag" label="RS:III-27.1" icon="maxspeed_icons/RS_III-27.1.png"/>
+			<button type="tag" label="RS:III-24" icon="maxspeed_icons/city_start.png"/>
+			<button type="tag" label="RS:III-27" icon="maxspeed_icons/zone30_start.png"/>
+			<button type="tag" label="RS:III-28" icon="maxspeed_icons/school_start.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:III-28" icon="maxspeed_icons/RS_III-28.png"/>
-			<button type="tag" label="RS:III-28.1" icon="maxspeed_icons/RS_III-28.1.png"/>
-			<button type="tag" label="RS:III-29" icon="maxspeed_icons/RS_III-29.png"/>
+			<button type="tag" label="RS:III-24.1" icon="maxspeed_icons/city_end.png"/>
+			<button type="tag" label="RS:III-27.1" icon="maxspeed_icons/zone30_end.png"/>
+			<button type="tag" label="RS:III-28.1" icon="maxspeed_icons/school_end.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:III-29.1" icon="maxspeed_icons/RS_III-29.1.png"/>
+			<button type="tag" label="RS:III-29" icon="maxspeed_icons/livingstreet_start.png"/>
+			<button type="tag" label="RS:III-29.1" icon="maxspeed_icons/livingstreet_end.png"/>
 			<button type="tag" label="Error" icon="maxspeed_icons/ERR.png"/>
-			<button type="tag" label="Error" icon="maxspeed_icons/ERR.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:II-1" icon="maxspeed_icons/RS_II-1.png"/>
-			<button type="tag" label="RS:II-2" icon="maxspeed_icons/RS_II-2.png"/>
-			<button type="tag" label="Error" icon="maxspeed_icons/ERR.png"/>
+			<button type="tag" label="RS:II-1" icon="maxspeed_icons/give_way.png"/>
+			<button type="tag" label="RS:II-2" icon="maxspeed_icons/stop.png"/>
 		</row>
 	</layout>
 </layouts>
