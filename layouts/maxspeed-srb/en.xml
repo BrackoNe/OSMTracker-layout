@@ -56,10 +56,12 @@
 		<row>
 			<button type="tag" label="RS:III-29.1" icon="maxspeed_icons/RS_III-29.1.png"/>
 			<button type="tag" label="Error" icon="maxspeed_icons/ERR.png"/>
+			<button type="tag" label="Error" icon="maxspeed_icons/ERR.png"/>
 		</row>
 		<row>
 			<button type="tag" label="RS:II-1" icon="maxspeed_icons/RS_II-1.png"/>
 			<button type="tag" label="RS:II-2" icon="maxspeed_icons/RS_II-2.png"/>
+			<button type="tag" label="Error" icon="maxspeed_icons/ERR.png"/>
 		</row>
 	</layout>
 </layouts>
