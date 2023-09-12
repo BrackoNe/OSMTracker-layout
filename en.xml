@@ -1,0 +1,65 @@
+<layouts>
+        <layout name="root">
+		<row>
+			<button type="picture" icon="logo_camera"/>
+			<button type="textnote" icon="logo_textnote"/>
+			<button type="voicerec" icon="logo_voice"/>
+		</row>
+		<row>
+			<button type="page" label="Regular speed limits" targetlayout="regular"/>
+			<button type="page" label="Implicit speed limits" targetlayout="implicit"/>
+		</row>
+        </layout>
+	<layout name="regular">
+		<row>
+			<button type="tag" label="RS:II-30[10]" icon="maxspeed_icons/RS_II-30[10].png"/>
+			<button type="tag" label="RS:II-30[20]" icon="maxspeed_icons/RS_II-30[20].png"/>
+			<button type="tag" label="RS:II-30[30]" icon="maxspeed_icons/RS_II-30[30].png"/>
+		</row>
+		<row>
+			<button type="tag" label="RS:II-30[40]" icon="maxspeed_icons/RS_II-30[40].png"/>
+			<button type="tag" label="RS:II-30[50]" icon="maxspeed_icons/RS_II-30[50].png"/>
+			<button type="tag" label="RS:II-30[60]" icon="maxspeed_icons/RS_II-30[60].png"/>
+		</row>
+		<row>
+			<button type="tag" label="RS:II-30[70]" icon="maxspeed_icons/RS_II-30[70].png"/>
+			<button type="tag" label="RS:II-30[80]" icon="maxspeed_icons/RS_II-30[80].png"/>
+			<button type="tag" label="RS:II-30[90]" icon="maxspeed_icons/RS_II-30[90].png"/>
+		</row>
+		<row>
+			<button type="tag" label="RS:II-30[100]" icon="maxspeed_icons/RS_II-30[100].png"/>
+			<button type="tag" label="RS:II-30[110]" icon="maxspeed_icons/RS_II-30[110].png"/>
+			<button type="tag" label="Error"/>
+		</row>
+		<row>
+			<button type="tag" label="RS:II-30[120]" icon="maxspeed_icons/RS_II-30[120].png"/>
+			<button type="tag" label="RS:II-30[130]" icon="maxspeed_icons/RS_II-30[130].png"/>
+			<button type="tag" label="RS:II-30[OTHER]" icon="maxspeed_icons/RS_II-30[other].png"/>
+		</row>
+        </layout>
+	<layout name="implicit">
+		<row>
+			<button type="tag" label="RS:III-14" icon="maxspeed_icons/RS_III-14.png"/>
+			<button type="tag" label="RS:III-17" icon="maxspeed_icons/RS_III-17.png"/>
+			<button type="tag" label="RS:III-24" icon="maxspeed_icons/RS_III-24.png"/>
+		</row>
+		<row>
+			<button type="tag" label="RS:III-24.1" icon="maxspeed_icons/RS_III-24.1.png"/>
+			<button type="tag" label="RS:III-27" icon="maxspeed_icons/RS_III-27.png"/>
+			<button type="tag" label="RS:III-27.1" icon="maxspeed_icons/RS_III-27.1.png"/>
+		</row>
+		<row>
+			<button type="tag" label="RS:III-28" icon="maxspeed_icons/RS_III-28.png"/>
+			<button type="tag" label="RS:III-28.1" icon="maxspeed_icons/RS_III-28.1.png"/>
+			<button type="tag" label="RS:III-29" icon="maxspeed_icons/RS_III-29.png"/>
+		</row>
+		<row>
+			<button type="tag" label="RS:III-29.1" icon="maxspeed_icons/RS_III-29.1.png"/>
+			<button type="tag" label="Error" icon="maxspeed_icons/ERR.png"/>
+		</row>
+		<row>
+			<button type="tag" label="RS:II-1" icon="maxspeed_icons/RS_II-1.png"/>
+			<button type="tag" label="RS:II-2" icon="maxspeed_icons/RS_II-2.png"/>
+		</row>
+	</layout>
+</layouts>
