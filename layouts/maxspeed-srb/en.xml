@@ -29,7 +29,7 @@
 		<row>
 			<button type="tag" label="RS:II-30[40]" icon="maxspeed_icons/40.png"/>
 			<button type="tag" label="RS:II-30[90]" icon="maxspeed_icons/90.png"/>
-			<button type="tag" label="RS:II-30[OTHER]" icon="maxspeed_icons/unknown.png"/>
+			<button type="tag" label="RS:III-17" icon="maxspeed_icons/end_unnumnered.png"/>
 		</row>
 		<row>
 			<button type="tag" label="RS:II-30[50]" icon="maxspeed_icons/50.png"/>
@@ -38,10 +38,6 @@
 		</row>
         </layout>
 	<layout name="implicit">
-		<row>
-			<button type="tag" label="RS:III-14" icon="maxspeed_icons/end_numnered.png"/>
-			<button type="tag" label="RS:III-17" icon="maxspeed_icons/end_unnumnered.png"/>
-		</row>
 		<row>
 			<button type="tag" label="RS:III-24" icon="maxspeed_icons/city_start.png"/>
 			<button type="tag" label="RS:III-27" icon="maxspeed_icons/zone30_start.png"/>
