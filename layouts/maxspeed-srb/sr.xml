@@ -12,50 +12,50 @@
         </layout>
 	<layout name="regular">
 		<row>
-			<button type="tag" label="RS:II-30[10]" icon="icons/10.png"/>
-			<button type="tag" label="RS:II-30[60]" icon="icons/60.png"/>
-			<button type="tag" label="RS:II-30[110]" icon="icons/110.png"/>
+			<button type="tag" label="RS:II-30[10]" icon="maxspeed-srb_icons/010.png"/>
+			<button type="tag" label="RS:II-30[60]" icon="maxspeed-srb_icons/060.png"/>
+			<button type="tag" label="RS:II-30[110]" icon="maxspeed-srb_icons/110.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:II-30[20]" icon="icons/20.png"/>
-			<button type="tag" label="RS:II-30[70]" icon="icons/70.png"/>
-			<button type="tag" label="RS:II-30[120]" icon="icons/120.png"/>
+			<button type="tag" label="RS:II-30[20]" icon="maxspeed-srb_icons/020.png"/>
+			<button type="tag" label="RS:II-30[70]" icon="maxspeed-srb_icons/070.png"/>
+			<button type="tag" label="RS:II-30[120]" icon="maxspeed-srb_icons/120.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:II-30[30]" icon="icons/30.png"/>
-			<button type="tag" label="RS:II-30[80]" icon="icons/80.png"/>
-			<button type="tag" label="RS:II-30[130]" icon="icons/130.png"/>
+			<button type="tag" label="RS:II-30[30]" icon="maxspeed-srb_icons/030.png"/>
+			<button type="tag" label="RS:II-30[80]" icon="maxspeed-srb_icons/080.png"/>
+			<button type="tag" label="RS:II-30[130]" icon="maxspeed-srb_icons/130.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:II-30[40]" icon="icons/40.png"/>
-			<button type="tag" label="RS:II-30[90]" icon="icons/90.png"/>
-			<button type="tag" label="RS:III-17" icon="icons/end_unnumnered.png"/>
+			<button type="tag" label="RS:II-30[40]" icon="maxspeed-srb_icons/040.png"/>
+			<button type="tag" label="RS:II-30[90]" icon="maxspeed-srb_icons/090.png"/>
+			<button type="tag" label="RS:III-17" icon="maxspeed-srb_icons/end_unnumnered.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:II-30[50]" icon="icons/50.png"/>
-			<button type="tag" label="RS:II-30[100]" icon="icons/100.png"/>
-			<button type="tag" label="Error" icon="icons/ERR.png"/>
+			<button type="tag" label="RS:II-30[50]" icon="maxspeed-srb_icons/050.png"/>
+			<button type="tag" label="RS:II-30[100]" icon="maxspeed-srb_icons/100.png"/>
+			<button type="tag" label="Error" icon="maxspeed-srb_icons/ERR.png"/>
 		</row>
         </layout>
 	<layout name="implicit">
 		<row>
-			<button type="tag" label="RS:III-24" icon="icons/city_start.png"/>
-			<button type="tag" label="RS:III-27" icon="icons/zone30_start.png"/>
-			<button type="tag" label="RS:III-28" icon="icons/school_start.png"/>
+			<button type="tag" label="RS:III-24" icon="maxspeed-srb_icons/city_start.png"/>
+			<button type="tag" label="RS:III-27" icon="maxspeed-srb_icons/zone30_start.png"/>
+			<button type="tag" label="RS:III-28" icon="maxspeed-srb_icons/school_start.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:III-24.1" icon="icons/city_end.png"/>
-			<button type="tag" label="RS:III-27.1" icon="icons/zone30_end.png"/>
-			<button type="tag" label="RS:III-28.1" icon="icons/school_end.png"/>
+			<button type="tag" label="RS:III-24.1" icon="maxspeed-srb_icons/city_end.png"/>
+			<button type="tag" label="RS:III-27.1" icon="maxspeed-srb_icons/zone30_end.png"/>
+			<button type="tag" label="RS:III-28.1" icon="maxspeed-srb_icons/school_end.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:III-29" icon="icons/livingstreet_start.png"/>
-			<button type="tag" label="RS:III-29.1" icon="icons/livingstreet_end.png"/>
-			<button type="tag" label="Error" icon="icons/ERR.png"/>
+			<button type="tag" label="RS:III-29" icon="maxspeed-srb_icons/livingstreet_start.png"/>
+			<button type="tag" label="RS:III-29.1" icon="maxspeed-srb_icons/livingstreet_end.png"/>
+			<button type="tag" label="Error" icon="maxspeed-srb_icons/ERR.png"/>
 		</row>
 		<row>
-			<button type="tag" label="RS:II-1" icon="icons/give_way.png"/>
-			<button type="tag" label="RS:II-2" icon="icons/stop.png"/>
+			<button type="tag" label="RS:II-1" icon="maxspeed-srb_icons/give_way.png"/>
+			<button type="tag" label="RS:II-2" icon="maxspeed-srb_icons/stop.png"/>
 		</row>
 	</layout>
 </layouts>
