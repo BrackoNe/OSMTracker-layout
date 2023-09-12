@@ -6,8 +6,8 @@
 			<button type="voicerec" icon="logo_voice"/>
 		</row>
 		<row>
-			<button type="page" label="Regular speed limits" targetlayout="regular"/>
-			<button type="page" label="Implicit speed limits" targetlayout="implicit"/>
+			<button type="page" label="Regularna ograničenja" targetlayout="regular"/>
+			<button type="page" label="Implicitna ograničenja" targetlayout="implicit"/>
 		</row>
         </layout>
 	<layout name="regular">
