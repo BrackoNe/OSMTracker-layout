@@ -34,7 +34,7 @@
 		<row>
 			<button type="tag" label="RS:II-30[50]" icon="maxspeed-srb_icons/050.png"/>
 			<button type="tag" label="RS:II-30[100]" icon="maxspeed-srb_icons/100.png"/>
-			<button type="tag" label="Error" icon="maxspeed-srb_icons/ERR.png"/>
+			<button type="page" label="Implicit speed limits" targetlayout="implicit"/>
 		</row>
         </layout>
 	<layout name="implicit">
@@ -56,6 +56,7 @@
 		<row>
 			<button type="tag" label="RS:II-1" icon="maxspeed-srb_icons/give_way.png"/>
 			<button type="tag" label="RS:II-2" icon="maxspeed-srb_icons/stop.png"/>
+			<button type="page" label="Regular speed limits" targetlayout="regular"/>
 		</row>
 	</layout>
 </layouts>
